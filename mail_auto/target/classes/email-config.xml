@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <email>
+        <recipient>p_munkyu.sung@lotte.net</recipient>
+        <recipient>p_seunghyeok.jeon@lotte.net</recipient>
+        <recipient>changmok.yoon@lotte.net</recipient>
+    </email>
+</configuration>

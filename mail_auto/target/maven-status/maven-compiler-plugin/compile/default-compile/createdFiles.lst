@@ -1,0 +1,7 @@
+org\example\EmailSender_copy.class
+org\example\EmailSender.class
+org\example\EmailSender$1.class
+org\example\EmailSender_copy$1.class
+org\example\DBConnection.class
+org\example\QueryExecutor.class
+main\main.class
