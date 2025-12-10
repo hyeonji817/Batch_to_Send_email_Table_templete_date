@@ -8,6 +8,7 @@ public class main {
     public static void main(String[] args) {
         // 데이터베이스 쿼리 실행
         String htmlcontent = QueryExecutor.executeQuery();
+        System.out.println(htmlcontent);
 
         // 결과를 이메일로 전송
         if (!htmlcontent.isEmpty()) {
