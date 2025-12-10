@@ -3,7 +3,7 @@ package main;
 import org.example.EmailSender;
 import org.example.QueryExecutor;
 
-// 자바 코드 모음
+// 자바 코드 모음 (힝힝 이규철 강사님)
 public class main {
     public static void main(String[] args) {
         // 데이터베이스 쿼리 실행
